@@ -6,14 +6,14 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		BlackImpl's Blog
 tagline:	'blog'
 description:	'My personal blog.'
-url:		http://camporez.com
+url:		http://blackimpl.com
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'BlackImpl'
+  url:		https://github.com/blackimpl
 
 paginate:	5
 
@@ -22,31 +22,23 @@ icon:		/assets/images/icon.png
 cover:		/assets/images/cover.jpg
 
 social:
-  - icon:	twitter
-    url:	https://twitter.com/iancamporez
-    desc:	Follow me on twitter
-
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/blackimpl
     desc:	Fork me on github
 
-  - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
-    desc:	Add me on google+
+  - icon:	twitter
+    url:	https://twitter.com/blackimpl
+    desc:	Follow me on twitter
 
-  - icon:	feed
-    url:	http://camporez.com/atom.xml
-    desc:	Subscribe to my feed
-    
 menu:
   - title:	Home
     url:	/
-    
+
   - title:	About
     url:	/about
-    
+
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
+  author:	BlackImpl
+  url:		http://blackimpl.com
   type_title:	Some rights reserved
-  type_url:	http://creativecommons.org/licenses/by-nc/2.5
+  type_url:	http://blackimpl.com
