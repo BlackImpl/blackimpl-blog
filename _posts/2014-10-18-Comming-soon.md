@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "新版博客开张"
 quote: 博客从阿里云搬迁至github, 逼格瞬间爆表！
 image: /media/2014-02-26-hello-cosette/cover.jpg
