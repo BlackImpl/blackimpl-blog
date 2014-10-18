@@ -4,24 +4,23 @@ title: Keep thinking, don't be foolish.
 ---
 
 <div class="message">
-  Company: alibaba-inc.com   花名: 笛墨
+  Company: alibaba-inc.com          花名: 笛墨
 </div>
 
-非典型强迫症患者, JAVA码农一只, 现在在阿里中间件部门打杂。这是我的技术博客兼吐槽之地。无论是过去, 还是现在, 技术都只是工具。希望在探讨技术的同时, 能兼备人文, 提升下逼格。
+非典型强迫症患者, JAVA码农一只, 现在在阿里中间件部门打杂。这是我的技术博客兼吐槽之地。技术只是工具, 希望在探讨技术的同时, 能兼备人文, 提升下逼格。
 
 在这里, 要特别感谢这些开源程序的贡献者。博客用的是github Pages + jekyll + Thinny theme 搭载。
 
 <div class="message">
   喜欢的:
+    妹子、妹子、还是妹子
 </div>
-
-妹子、妹子、还是妹子
 
 <div class="message">
   讨厌的:
+    代码
 </div>
 
-代码
 
 微博ID: blackimpl    邮箱:blackimpl@163.com
 
