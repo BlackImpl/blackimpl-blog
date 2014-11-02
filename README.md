@@ -1,6 +1,3 @@
-#Thinny - The Infinite's Nymphet
+# BlackImpl' Blog
 
-##About
-[BlackImpl's personal blog](http://blackimpl.com/).
-Use  github pages + [Jekyll](http://jekyllrb.com/) + [Thinny theme](http://jekyllthemes.org/themes/thinny/)
-
+[blackimpl.com](http://blackimpl.com)

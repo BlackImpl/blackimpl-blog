@@ -1,44 +1,32 @@
-# Dependencies
-markdown:	redcarpet
-pygments:	true
+# Site settings
+title:       BlackImpl
+email:       blackimpl@163.com
+author:      BlackImpl
+description: "Keep simple, stupid."
+baseurl:     ""
+url:         "http://blackimpl.com"
 
-# Permalinks
-permalink:	/blog/:title
+# Google analytics
+google_analytics: UA-56317557-1
 
-# Setup
-title:		BlackImpl's Blog
-tagline:	'blog'
-description:	'My personal blog.'
-url:		http://blackimpl.com
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
 
-author:
-  name:		'BlackImpl'
-  url:		https://github.com/blackimpl
+# Social icons
+show_social_icons: false
+github_username: blackimpl
+twitter_username: blackimpl
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
 
-paginate:	5
-
-# Custom vars
-icon:		/assets/images/icon.png
-cover:		/assets/images/cover.jpg
-
-social:
-  - icon:	github
-    url:	https://github.com/blackimpl
-    desc:	Fork me on github
-
-  - icon:	twitter
-    url:	https://twitter.com/blackimpl
-    desc:	Follow me on twitter
-
-menu:
-  - title:	Home
-    url:	/
-
-  - title:	About
-    url:	/about
-
-copyright:
-  author:	BlackImpl
-  url:		http://blackimpl.com
-  type_title:	Some rights reserved
-  type_url:	http://blackimpl.com
+# Build settings
+markdown:     kramdown
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
